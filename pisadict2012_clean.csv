@@ -1,0 +1,92 @@
+Code,Description
+CNT,Country code 3-character
+SUBNATIO,Adjudicated sub-region code 7-digit code (3-digit country code + region ID + stratum ID)
+STRATUM,Stratum ID 7-character (cnt + region ID + original stratum ID)
+OECD,OECD country
+STIDSTD,Student ID
+ST01Q01,International Grade
+ST04Q01,Gender
+ST35Q01,Subjective Norms -Friends Do Well in Mathematics
+ST35Q02,Subjective Norms -Friends Work Hard on Mathematics
+ST35Q03,Subjective Norms - Friends Enjoy Mathematics Tests
+ST35Q04,Subjective Norms - Parents Believe Studying Mathematics Is Important
+ST35Q05,Subjective Norms - Parents Believe Mathematics Is Important for Career
+ST35Q06,Subjective Norms - Parents Like Mathematics
+ST42Q01,Math Anxiety - Worry That It Will Be Difficult
+ST42Q02,Math Self-Concept - Not Good at Maths
+ST42Q03,Math Anxiety - Get Very Tense
+ST42Q04,Math Self-Concept- Get Good <Grades>
+ST42Q05,Math Anxiety - Get Very Nervous
+ST42Q06,Math Self-Concept - Learn Quickly
+ST42Q07,Math Self-Concept - One of Best Subjects
+ST42Q08,Math Anxiety - Feel Helpless
+ST42Q09,Math Self-Concept - Understand Difficult Work
+ST42Q10,Math Anxiety - Worry About Getting Poor <Grades>
+ST43Q01,Perceived Control - Can Succeed with Enough Effort
+ST43Q02,Perceived Control - Doing Well is Completely Up to Me
+ST43Q03,Perceived Control - Family Demands and Problems
+ST43Q04,Perceived Control - Different Teachers
+ST43Q05,Perceived Control - If I Wanted I Could Perform Well
+ST43Q06,Perceived Control - Perform Poorly Regardless
+ST44Q01,Attributions to Failure - Not Good at Maths Problems
+ST44Q03,Attributions to Failure - Teacher Did Not Explain Well
+ST44Q04,Attributions to Failure - Bad Guesses
+ST44Q05,Attributions to Failure - Material Too Hard
+ST44Q07,Attributions to Failure - Teacher Didnt Get Students Interested
+ST44Q08,Attributions to Failure - Unlucky
+ST46Q01,Math Work Ethic - Homework Completed in Time
+ST46Q02,Math Work Ethic - Work Hard on Homework
+ST46Q03,Math Work Ethic - Prepared for Exams
+ST46Q04,Math Work Ethic - Study Hard for Quizzes
+ST46Q05,Math Work Ethic - Study Until I Understand Everything
+ST46Q06,Math Work Ethic - Pay Attention in Classes
+ST46Q07,Math Work Ethic - Listen in Classes
+ST46Q08,Math Work Ethic - Avoid Distractions When Studying
+ST46Q09,Math Work Ethic - Keep Work Organized
+ST48Q01,Math Intentions - Mathematics vs. Language Courses After School
+ST48Q02,Math Intentions - Mathematics vs. Science Related Major in College
+ST48Q03,Math Intentions - Study Harder in Mathematics vs. Language Classes
+ST48Q04,Math Intentions - Take Maximum Number of Mathematics vs. Science Classes
+ST48Q05,Math Intentions - Pursuing a Career That Involves Mathematics vs. Science
+ST49Q01,Math Behaviour - Talk about Maths with Friends
+ST49Q02,Math Behaviour - Help Friends with Maths
+ST49Q03,Math Behaviour - <Extracurricular> Activity
+ST49Q04,Math Behaviour - Participate in Competitions
+ST49Q05,Math Behaviour - Study More Than 2 Extra Hours a Day
+ST49Q06,Math Behaviour - Play Chess
+ST49Q07,Math Behaviour - Computer programming
+ST49Q09,Math Behaviour - Participate in Math Club
+ST91Q01,Perceived Control - Can Succeed with Enough Effort
+ST91Q02,Perceived Control - My Choice Whether I Will Be Good
+ST91Q03,Perceived Control - Problems Prevent from Putting Effort into School
+ST91Q04,Perceived Control - Different Teachers Would Make Me Try Harder
+ST91Q05,Perceived Control - Could Perform Well if I Wanted
+ST91Q06,Perceived Control - Perform Poor Regardless
+ST93Q01,Perseverance - Give up easily
+ST93Q03,Perseverance - Put off difficult problems
+ST93Q04,Perseverance - Remain interested
+ST93Q06,Perseverance - Continue to perfection
+ST93Q07,Perseverance - Exceed expectations
+ST94Q05,Openness for Problem Solving - Can Handle a Lot of Information
+ST94Q06,Openness for Problem Solving - Quick to Understand
+ST94Q09,Openness for Problem Solving - Seek Explanations
+ST94Q10,Openness for Problem Solving - Can Link Facts
+ST94Q14,Openness for Problem Solving - Like to Solve Complex Problems
+ST96Q01,Problem Text Message - Press every button
+ST96Q02,Problem Text Message - Trace steps
+ST96Q03,Problem Text Message - Manual
+ST96Q05,Problem Text Message - Ask a friend
+ANXMAT,Mathematics Anxiety
+FAILMAT,Attributions to Failure in Mathematics
+INTMAT,Mathematics Interest
+MATBEH,Mathematics Behaviour
+MATHEFF,Mathematics Self-Efficacy
+MATINTFC,Mathematics Intentions
+MATWKETH,Mathematics Work Ethic
+SCMAT,Mathematics Self-Concept
+USEMATH,Use of ICT in Mathematic Lessons
+PV1MATH,Plausible value 1 in mathematics
+PV2MATH,Plausible value 2 in mathematics
+PV3MATH,Plausible value 3 in mathematics
+PV4MATH,Plausible value 4 in mathematics
+PV5MATH,Plausible value 5 in mathematics
