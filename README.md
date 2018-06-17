@@ -28,5 +28,4 @@ For clarity and conciseness some of the variables and abbreviations are renamed,
 * tableauStory_outline.ipynb - this Jupyter Markdown document, contains a description of the project;
 * tableauStory_outline.html - the html version of the Markdown document.
 
-[Link to Tableau Story](https://public.tableau.com/views/pisa2012_story_final/Story1?:embed=y&:display_count=yes)
-
+[Link to Tableau Story](https://public.tableau.com/shared/JXW9F5PRY?:display_count=yes)
